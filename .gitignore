@@ -7,3 +7,5 @@
 **/.next
 **/out
 test
+*.json
+!package.json
